@@ -5,5 +5,6 @@ PENDIENTES:
 === TAREAS PERSONA B ===
 - (Persona B: añadir aquí su tarea)
 === TAREAS PERSONA C ===
+Escribir la documentación (Persona C)
 - (Persona C simulada por Persona B: añadir aquí su tarea)
 COMPLETADAS:
